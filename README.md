@@ -34,7 +34,7 @@ To run the app locally, create a `.env` file in the root of your project:
 ## 🛠️ Installation & Setup
 
 # 1. Clone the repo
-git clone 
+git clone https://github.com/Ranjanas03/Klimate.git
 cd klimate
 
 # 2. Install dependencies
